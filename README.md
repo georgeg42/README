@@ -2,7 +2,7 @@
 ## Olá, sou o George
 
 - 🤔 Explorando e aprendendo novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Tecnolo em Análise e Desenvolvimento de Sistemas.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo mais sobre Java, Spring Boot, API Rest, Ruby, Python.
 
 ## Minhas Skills
