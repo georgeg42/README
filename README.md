@@ -1,10 +1,8 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando e aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Tecnolo em Análise e Desenvolvimento de Sistemas.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre Java, Spring Boot, API Rest, Ruby, Python.
 
 ## Minhas Skills
